@@ -119,10 +119,12 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT]("C:\Users\SEC\Downloads\OUTPUT.jpg")
+![OUTPUT](https://user-images.githubusercontent.com/119559812/213362401-e978130e-dd03-4e6e-b7c2-1c323ccf66f5.jpg)
+
 
 # HTML VALIDATOR
-![HTML VALIDATOR](./valid.png)
+![HTML VALIDATION](https://user-images.githubusercontent.com/119559812/213362442-301276f8-ef1e-40ad-b824-5262312a5707.jpg)
+
 
 # RESULT
 The program for creating Slot Timetable is completed successfully.
