@@ -119,7 +119,7 @@ Execute the program
 ```
 
 # OUPUT
-![image](./home/sec/Pictures/Screenshots/OUTPUT.png)
+![OUTPUT]("C:\Users\SEC\Downloads\OUTPUT.jpg")
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](./valid.png)
